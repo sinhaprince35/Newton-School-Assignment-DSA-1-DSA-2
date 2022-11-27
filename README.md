@@ -1,1 +1,1 @@
-# Newton_School_Assignment_Alma_Batch_2022_DSA_1_and_DSA_2
+# Newton School Assignment Alma Batch 2022 DSA 1 and DSA 2
